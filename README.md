@@ -1,7 +1,7 @@
 # Web Teknolojileri — Vize Projesi (Sprint 6)
 **Router, Context ve Yönetim (18 Adım)**
 
-**Canlı Dağıtım (Vercel):** [https://emir-demir-frontend.vercel.app](https://emirdemir-frontend.vercel.app/)  
+**Canlı Dağıtım (Vercel):** [https://emirdemir-frontend.vercel.app](https://emirdemir-frontend.vercel.app)  
 *(Alternatif / Vercel Dağıtım Bağlantınız: `https://emirdemir-frontend.vercel.app`)*  
 
 
