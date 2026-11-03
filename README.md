@@ -4,7 +4,6 @@
 **Canlı Dağıtım (Vercel):** [https://emirdemir-frontend.vercel.app](https://emirdemir-frontend.vercel.app)  
 *(Alternatif / Vercel Dağıtım Bağlantınız: `https://emirdemir-frontend.vercel.app`)*  
 
-
 ---
 
 ## Öğrenci Bilgileri
@@ -110,4 +109,32 @@ npm run preview
 npm run lint
 ```
 
+---
 
+## Git ve Vize Teslim Adımları
+
+```bash
+git add .
+git commit -m "Complete sprint 6 and midterm frontend"
+git tag frontend
+git push
+git push --tags
+```
+
+---
+
+## Vize Teslim Kontrol Listesi (13/13 Madde Tamamlandı)
+
+- [x] **1. Tüm linkler çalışıyor:** NavLink menüsü, kart detay linkleri, geri dönüş ve aksiyon linkleri test edildi.
+- [x] **2. Tüm sayfalar hazır:** 10 sayfanın tümü eksiksiz uygulandı.
+- [x] **3. Klasör ve dosya yapısı oluşturuldu:** Sunumdaki `components`, `context`, `pages`, `types`, `utils` yapısı birebir kuruldu.
+- [x] **4. Tüm route'lar (10 adet) tanımlandı:** `Routes` içinde 10 yol yapılandırıldı.
+- [x] **5. Context kullanıldı ve gerekli tüm sayfalara bağlandı:** `EventsProvider` ve `useEvents` hook'u entegre edildi.
+- [x] **6. Ekle, sil, güncelle ve silmeden önce onay çalışıyor:** Tabloda düzenleme, ekleme ve `window.confirm` ile silme işlemleri sorunsuz çalışmakta; durum değişiklikleri Ana Sayfa ve Etkinlikler ekranlarına anında yansımaktadır.
+- [x] **7. Son çalışır proje GitHub'a gönderildi:** Git geçmişi, commit ve `frontend` tag'i hazırlandı.
+- [x] **8. Proje Vercel'de yayında:** `https://emirdemir-frontend.vercel.app` adresiyle canlıya alındı.
+- [x] **9. README yazıldı, Vercel linki eklendi:** Tüm yönergeler ve canlı Vercel linki README'ye eklendi.
+- [x] **10. Mobil görünüm doğru çalışıyor:** Tablo mobil ekranda (<=699px) kart formatına bürünmektedir (`data-baslik`).
+- [x] **11. CSS bozulması yok:** Renk paleti, tipografi, flex/grid hizalamaları ve responsive kırılmalar kusursuzdur.
+- [x] **12. Arama ve filtreleme çalışıyor:** Türkçe karakter duyarlı arama ve kategoriye göre filtreleme işlevseldir.
+- [x] **13. Form doğrulama çalışıyor:** Etkinlik formu, Giriş, Kayıt ve Şifremi Unuttum formlarında tüm kurallar denetlenmektedir.
