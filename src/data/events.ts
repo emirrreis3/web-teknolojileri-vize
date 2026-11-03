@@ -20,7 +20,8 @@ export const events: CampusEvent[] = [
     date: "2026-10-20",
     time: "10:00",
     location: "Bilgisayar Laboratuvarı 2",
-    description: "Arduino ile çizgi izleyen robot yapımı, başlangıç seviyesi."
+    description: "Arduino ile çizgi izleyen robot yapımı, başlangıç seviyesi.",
+    image: "/afis-2.svg"
   },
   {
     id: "event-3",
@@ -30,7 +31,8 @@ export const events: CampusEvent[] = [
     date: "2026-10-27",
     time: "13:00",
     location: "B Blok Amfi 1",
-    description: "Sektörden bir uzmanla güvenlik kariyeri üzerine sohbet."
+    description: "Sektörden bir uzmanla güvenlik kariyeri üzerine sohbet.",
+    image: "/afis-3.svg"
   },
   {
     id: "event-4",
@@ -40,7 +42,8 @@ export const events: CampusEvent[] = [
     date: "2026-11-03",
     time: "15:00",
     location: "Bilgisayar Laboratuvarı 1",
-    description: "HTML ve CSS ile ilk kişisel sayfanı yap."
+    description: "HTML ve CSS ile ilk kişisel sayfanı yap.",
+    image: "/afis-4.svg"
   },
   {
     id: "event-5",
@@ -50,7 +53,8 @@ export const events: CampusEvent[] = [
     date: "2026-11-10",
     time: "09:30",
     location: "Kütüphane Etkinlik Alanı",
-    description: "Üç kişilik takımlarla dört saatlik algoritma yarışması."
+    description: "Üç kişilik takımlarla dört saatlik algoritma yarışması.",
+    image: "/afis-5.svg"
   },
   {
     id: "event-6",
@@ -60,6 +64,7 @@ export const events: CampusEvent[] = [
     date: "2026-11-17",
     time: "14:30",
     location: "A Blok Konferans Salonu",
-    description: "Büyük dil modelleri nasıl çalışır? Temel kavramlar ve örnekler."
+    description: "Büyük dil modelleri nasıl çalışır? Temel kavramlar ve örnekler.",
+    image: "/afis-6.svg"
   }
 ];
